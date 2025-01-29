@@ -2,7 +2,7 @@
 Hi, I'm Andres Laptes!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.123rf.com%2Fphoto_84004328_el-astronauta-del-beb%25C3%25A9-se-sienta-en-saturno-y-nos-da-la-bienvenida-personaje-c%25C3%25B3smico-ilustraci%25C3%25B3n.html&psig=AOvVaw3trOdb6uTwdbwAeV0CGxUE&ust=1738234603290000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjp5primosDFQAAAAAdAAAAABAE" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -39,13 +39,6 @@ I-am-AndresLaptes@github
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="Qt" src="https://img.shields.io/badge/-black?style=flat&logo=qt"></a>
-    
-
-### 🧰 Frameworks and Libraries
-
-<p>
-
-</p>
 
 ### 🗄️ Databases and Cloud Hosting
 
