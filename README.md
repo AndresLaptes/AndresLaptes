@@ -1,8 +1,8 @@
 <h1 align="center">
-Hi, I'm Andres Laptes!
+Hi, I'm Andres Lucian!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.123rf.com%2Fphoto_84004328_el-astronauta-del-beb%25C3%25A9-se-sienta-en-saturno-y-nos-da-la-bienvenida-personaje-c%25C3%25B3smico-ilustraci%25C3%25B3n.html&psig=AOvVaw3trOdb6uTwdbwAeV0CGxUE&ust=1738234603290000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjp5primosDFQAAAAAdAAAAABAE" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.123rf.com%2Fphoto_84004328_el-astronauta-del-beb%25C3%25A9-se-sienta-en-saturno-y-nos-da-la-bienvenida-personaje-c%25C3%25B3smico-ilustraci%25C3%25B3n.html&psig=AOvVaw3trOdb6uTwdbwAeV0CGxUE&ust=1738234603290000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjp5primosDFQAAAAAdAAAAABAE" alt="Profile views" align='right'/> <a href="https://https://github.com/AndresLaptes/AndresLaptes/"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -14,15 +14,14 @@ Hi, I'm Andres Laptes!
 <hr>
 
 ```
-I-am-AndresLaptes@github
+About me
 -------------------------
-📚 I'm studying the degree of Informatics Engineering in UPC from Spain
-📝 I have a strong interest in learning and Artificial Intelligence
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: C, C++
-🚩 Interested in low level and high level operation of the codes
-💖 In a complicated relationship with assembler
-🎵 Love rock, jazz and soft music
+📚 Studies: Computer Engineering Degree at UPC, Spain
+📝 Specialization: Forging my path in Artificial Intelligence
+🌱 Areas of Interest: Machine Learning, LLM's
+🌟 Languages: Python, C++, C
+🚩 Goal: To master the field of AI
+🎵 Fun fact: I enjoy listening to music (rock, jazz, soft) and learning new things every day.
 ```
 <hr>
 
